@@ -1,5 +1,5 @@
-from collections import namedtuple
 from faker import Faker
+from collections import namedtuple
 import datetime
 from time import perf_counter
 from functools import wraps
