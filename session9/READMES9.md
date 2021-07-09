@@ -22,7 +22,7 @@ In this task we need to create fake profiles using faker library and store that 
 
 **Largest Blood Type**
 
-Here I am using lambda function and mapping operation to extract the blood type, Then we are storing it map object to list and pass it as a parameter to mode function defined in statistics library. We measure the time and record the readings. 
+Here I am using lambda function and mapping operation to extract the blood type, Then we are storing it map object to list and pass it as a parameter to mode function defined in statistics library. We measure the time and record the readdings. 
 
 **Mean Current Location**
 
